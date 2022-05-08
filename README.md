@@ -2,6 +2,8 @@
 
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
 
+## You can see my version here: https://fm-accordion-card.netlify.app/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
